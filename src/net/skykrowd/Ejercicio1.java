@@ -37,6 +37,7 @@ public class Ejercicio1 {
         mostrar(mat);
     }
 
+
     private static void mostrar(char mat[][]){
         for (int i=0;i<mat.length;i++) {
             for (int j = 0; j < mat[i].length; j++) {
